@@ -1,0 +1,42 @@
+.container img {
+	width: 300px;
+	margin: auto;
+	padding-top: 10px;
+}
+
+.container{
+	background-color: #2d2e30;
+}
+
+.container h3 {
+	font-size: 20px;
+	color: white;
+}
+
+.kategori .container .row .col-md-1 {
+	border-top-right-radius: 25%;
+	border-bottom-left-radius: 25%;
+	margin: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	background-color: #00ccab;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.gallery {
+	min-height: 580px;
+}
+
+footer {
+	width: 100%;
+	bottom: 0px;
+	margin:auto;
+	height: 60px;
+	background-color: #2d2e30;
+	padding-top: 15px;
+}
+
+footer p{
+	color: white;
+}
